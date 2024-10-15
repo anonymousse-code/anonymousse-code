@@ -1,0 +1,14 @@
+__pycache__
+**/*.egg-info
+data/*
+.vscode
+wandb
+*.out
+**/tmp/**
+scratch.ipynb
+scratch.yaml
+n_test
+n_test1
+.env
+jobinfo.py
+.DS_Store
